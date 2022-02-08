@@ -1,6 +1,6 @@
 # TODOLIST-REACT
 
-<a href="https://brylegrain.netlify.app/"> **DEMO** </a>
+<a href="https://bryanleg-todolist-react.netlify.app/"> **DEMO** </a>
 
 # Getting Started with Create React App
 
