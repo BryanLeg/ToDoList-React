@@ -1,5 +1,7 @@
 # TODOLIST-REACT
 
+To see the project click below:
+
 <a href="https://bryanleg-todolist-react.netlify.app/"> **DEMO** </a>
 
 # Getting Started with Create React App
